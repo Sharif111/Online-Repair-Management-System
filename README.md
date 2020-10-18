@@ -13,7 +13,7 @@ then our employee notify this valuable customer so that they can pick their thin
     HTML
     CSS
     Javascript
-    My SQL
+    MySQL
 
 
 
